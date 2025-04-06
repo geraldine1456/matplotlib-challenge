@@ -85,11 +85,11 @@ This project analyzes data from Pymaceuticals' recent animal study, which aimed 
 2.  [Pandas Documentation](https://pandas.pydata.org/docs/)
 3.  [Matplotlib Documentation](https://matplotlib.org/)
 4.  [Numpy Documentation](https://numpy.org/)
-5.  [Scipy Documentation](https://scipy.org/)
+5.  [SciPy Documentation](https://scipy.org/)
 6.  [Jupyter Notebook Guide](https://jupyter.org/)
 7.  [W3Schools](https://www.w3schools.com/)
 8.  [Microsoft Copilot](https://copilot.microsoft.com/)  
-8.  Special thanks to Tutor CJ for assistance with debugging coding errors
+Note: Special thanks to Tutor CJ for assistance with debugging coding errors
 
 ---
 
